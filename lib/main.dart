@@ -60,7 +60,7 @@ class _RandomSentencesState extends State <RandomSentences>{
             context: context,
             tiles: tiles,
           ).toList();
-           
+                          
           return new Scaffold(
             appBar: new AppBar(
               title: new Text('Saved Funny Sentences'),
